@@ -1,4 +1,4 @@
-<h1 align="center">Hi 😄, I'm Farah Raihanunnisa</h1>
+<h1 align="center">Hi 👋😄, I'm Farah Raihanunnisa</h1>
 <h3 align="center">I’m all about backend development. I love diving into the code that makes everything tick behind the scenes!</h3>
 
 
